@@ -1,0 +1,20 @@
+.all_element{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.element_name{
+    font-size: 30px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.each_element{
+    padding-left: 50px;
+}
+
+.each_and_name {
+    border: 5px solid black;
+}
