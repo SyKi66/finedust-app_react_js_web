@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53591bee6c90fd96532ab28b5c9ff04a",
+    "revision": "ed429b9f4dcfbc371dc3e3a17fffc475",
     "url": "/react_js_finedust_app/index.html"
   },
   {
-    "revision": "c7b1544bb14c6d9bfa3e",
+    "revision": "229a058ce837a59b7619",
     "url": "/react_js_finedust_app/static/css/main.6735749a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_js_finedust_app/static/js/2.3bc903e9.chunk.js.LICENSE"
   },
   {
-    "revision": "c7b1544bb14c6d9bfa3e",
-    "url": "/react_js_finedust_app/static/js/main.6cc539c0.chunk.js"
+    "revision": "229a058ce837a59b7619",
+    "url": "/react_js_finedust_app/static/js/main.700d1012.chunk.js"
   },
   {
     "revision": "761788548dbcc35b1216",
