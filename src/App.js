@@ -52,12 +52,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-
-// {dustData.map(list => {
-//   console.log(1);
-//   return <Dust 
-//       name = {dustData.stationName}
-//       pm10 = {dustData.pm10Value}
-//     />
-//   })}
