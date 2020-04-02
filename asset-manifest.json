@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_js_finedust_app/static/css/main.6735749a.chunk.css",
-    "main.js": "/react_js_finedust_app/static/js/main.040b8f34.chunk.js",
-    "main.js.map": "/react_js_finedust_app/static/js/main.040b8f34.chunk.js.map",
-    "runtime-main.js": "/react_js_finedust_app/static/js/runtime-main.5979e969.js",
-    "runtime-main.js.map": "/react_js_finedust_app/static/js/runtime-main.5979e969.js.map",
-    "static/js/2.3bc903e9.chunk.js": "/react_js_finedust_app/static/js/2.3bc903e9.chunk.js",
-    "static/js/2.3bc903e9.chunk.js.map": "/react_js_finedust_app/static/js/2.3bc903e9.chunk.js.map",
-    "index.html": "/react_js_finedust_app/index.html",
-    "precache-manifest.c41a59c75a6a6784f3696a26017655a8.js": "/react_js_finedust_app/precache-manifest.c41a59c75a6a6784f3696a26017655a8.js",
-    "service-worker.js": "/react_js_finedust_app/service-worker.js",
-    "static/css/main.6735749a.chunk.css.map": "/react_js_finedust_app/static/css/main.6735749a.chunk.css.map",
-    "static/js/2.3bc903e9.chunk.js.LICENSE": "/react_js_finedust_app/static/js/2.3bc903e9.chunk.js.LICENSE"
+    "main.css": "/finedust-page/static/css/main.6735749a.chunk.css",
+    "main.js": "/finedust-page/static/js/main.040b8f34.chunk.js",
+    "main.js.map": "/finedust-page/static/js/main.040b8f34.chunk.js.map",
+    "runtime-main.js": "/finedust-page/static/js/runtime-main.abcaf8e3.js",
+    "runtime-main.js.map": "/finedust-page/static/js/runtime-main.abcaf8e3.js.map",
+    "static/js/2.3bc903e9.chunk.js": "/finedust-page/static/js/2.3bc903e9.chunk.js",
+    "static/js/2.3bc903e9.chunk.js.map": "/finedust-page/static/js/2.3bc903e9.chunk.js.map",
+    "index.html": "/finedust-page/index.html",
+    "precache-manifest.9cefa933a5333159db05c75bdf7ebde0.js": "/finedust-page/precache-manifest.9cefa933a5333159db05c75bdf7ebde0.js",
+    "service-worker.js": "/finedust-page/service-worker.js",
+    "static/css/main.6735749a.chunk.css.map": "/finedust-page/static/css/main.6735749a.chunk.css.map",
+    "static/js/2.3bc903e9.chunk.js.LICENSE": "/finedust-page/static/js/2.3bc903e9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5979e969.js",
+    "static/js/runtime-main.abcaf8e3.js",
     "static/js/2.3bc903e9.chunk.js",
     "static/css/main.6735749a.chunk.css",
     "static/js/main.040b8f34.chunk.js"
